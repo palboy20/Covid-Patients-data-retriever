@@ -8,7 +8,7 @@ https://jira2.cerner.com/browse/DEVACDMY-38358
 ## Project:
 
 Problem Statement:
-For the given patientId, API should return the patients covid data.  Covid data should contain patientid, patient name, testedpostive, hasvaccinated, phone number, vaccine certification no, aadhar number.
+For the given patientId, API should return the patients covid data.  Covid data should contain patientid, patient name, testedpostive, hasvaccinated, phone number, vaccine certification number, aadhar number.
 
 Overview:
 
